@@ -1,4 +1,4 @@
-/* ===== Portfolia: dark neon background + liquid glass ===== */
+
 :root{--ink:#1c2430;--muted:#5d6b7a;--brand:#0f766e;--text:#eef0ff;--text-muted:#b4b9dc;--glass:rgba(255,255,255,.07);--glass-line:rgba(255,255,255,.16);--cyan:#67e8f9}
 *{box-sizing:border-box}
 [hidden]{display:none!important}
