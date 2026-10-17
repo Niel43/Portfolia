@@ -10,7 +10,7 @@
 
 
 ## Published Website
-**URL:** https://friendly-paletas-9daa62.netlify.app/create
+**URL:** https://friendly-paletas-9daa62.netlify.app/
 
 ## Project Description
 Portfolia is a portfolio template generator. Users enter their personal information, education, skills, projects, work experience and links, save everything to an online database, choose one of three portfolio templates, and generate a portfolio page. Saved portfolios can be viewed, edited and deleted from the Manage page.
